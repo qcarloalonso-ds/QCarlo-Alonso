@@ -5,6 +5,8 @@ Aquí encontrarán mi repositorio personal.
 
 **Data Scientist con background en Ciencias Químicas y Ambientales**
 
+Bachelor degree: Química
+Cédula Profesional: 15035753 
 Máster en Data Science e IA by @DEV.F | 4+ años transformando datos experimentales en insights accionables
 
 ### 🔬 Áreas de interés
@@ -12,7 +14,7 @@ Máster en Data Science e IA by @DEV.F | 4+ años transformando datos experiment
 - Estadística aplicada a datos biomédicos  
 - Machine Learning para ciencias
 - Reproducibilidad y control de calidad de datos
-- Cualquier área que me permita profundizar más en mis habilidades en análisis de datos.
+- Aprendizaje activo que me permita profundizar más en mis habilidades en análisis de datos.
   
 ### 🛠️ Stack Técnico
 `Python` `Pandas` `NumPy` `Scikit-learn` `Statsmodels` `Seaborn` `Matplotlib` `SQL` `Git`
